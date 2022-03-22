@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align="left"> 
+  <a href="https://github.com/kawa-work/kawa-work/">
+    <img src="https://komarev.com/ghpvc/?username=kawa-work" alt="kawa-work" />
+  </a>
+</p>
+
 <!--
 **kawa-work/kawa-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
